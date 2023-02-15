@@ -4,5 +4,6 @@
 
 | Books and Resources | Completed |
 | ------------- | ------------- |
-| ["AIN311: Fundamentals of Machine Learning", Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/ain311.f22/) |  |
-| ["Stanford CS229: Machine Learning Full Course", Andrew Ng, Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |  |
+| ["AIN311: Fundamentals of Machine Learning" by Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/ain311.f22/) |  |
+| ["Stanford CS229: Machine Learning Full Course" by Andrew Ng, Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |  |
+| ["A Course in Machine Learning" by Hal Daumé III](http://ciml.info) |  |
