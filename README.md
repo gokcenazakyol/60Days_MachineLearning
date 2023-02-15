@@ -15,7 +15,7 @@
 
 | Exercise Names |Files|
 | ------------- | ------------- |
-| | |
+| KNN Classifier | [file](https://github.com/gokcenazakyol/knn-classifier) |
 
 --------------------------------------
 
