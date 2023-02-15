@@ -5,4 +5,4 @@
 | Books and Resources | Completed |
 | ------------- | ------------- |
 | ["AIN311: Fundamentals of Machine Learning", Erkut Erdem](https://web.cs.hacettepe.edu.tr/~erkut/ain311.f22/) |  |
-| [Stanford CS229: Machine Learning Full Course taught by Andrew Ng | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |  |
+| ["Stanford CS229: Machine Learning Full Course", Andrew Ng, Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |  |
