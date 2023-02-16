@@ -12,6 +12,7 @@
 | Summaries for Chapters | Notes |
 | ------------- | ------------- |
 | 1. Nearest Neighbor Classifier | [note](https://medium.com/@gokcenazakyol/what-is-nearest-neighbor-classifier-machine-learning-1-26b8ec1b9f7b)|
+| 2. Curse of Dimensionality | [note](https://medium.com/@gokcenazakyol/what-is-curse-of-dimensionality-machine-learning-2-739131962faf) |
 
 | Exercise Names |Files|
 | ------------- | ------------- |
@@ -27,3 +28,8 @@
 <img width="837" alt="image" src="https://user-images.githubusercontent.com/74296174/219040146-2a988d6d-f25f-44c7-a864-7c4664d6ae9e.png">
 
 -----------------------------------------
+
+### Day 2 of 60 Machine Learning Challenge 🐱
+- Today, I studied Curse of Dimensionality topic and how to reduce dimensionality. On the other hand, I decided to quickly overview the topics that I already know. So, I overviewed the linear regression and the related regression types such as PSR, PLS, Lasso Regression, Ridge Regression and lastly ElasticNet Regression types. 
+- I benefited from A Course in Machine Learning by Hal Daumé III Chapter 3 | GEOMETRY AND NEAREST NEIGHBORS again.
+- You can find notes that I took for Curse of Dimensionality from [here](https://medium.com/@gokcenazakyol/what-is-curse-of-dimensionality-machine-learning-2-739131962faf).
