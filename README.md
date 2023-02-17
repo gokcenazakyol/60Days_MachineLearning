@@ -34,3 +34,10 @@
 - Today, I studied Curse of Dimensionality topic and how to reduce dimensionality. On the other hand, I decided to quickly overview the topics that I already know. So, I overviewed the linear regression and the related regression types such as PSR, PLS, Lasso Regression, Ridge Regression and lastly ElasticNet Regression types. 
 - I benefited from A Course in Machine Learning by Hal Daumé III Chapter 3 | GEOMETRY AND NEAREST NEIGHBORS again.
 - You can find notes that I took for Curse of Dimensionality from [here](https://medium.com/@gokcenazakyol/what-is-curse-of-dimensionality-machine-learning-2-739131962faf).
+
+-----------------------------------------
+
+### Day 3 of 60 Machine Learning Challenge 👩🏽‍💻
+- Today, I studied Linear Regression and Gradient Descent Algorithm, Cross-Validation, Computational Learning and Probability from AIN311 slide notes. I took notes from them.
+- Also, I watched Linear Regression and Gradient Descent video from CS229 playlist above.
+
