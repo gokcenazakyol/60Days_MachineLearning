@@ -28,7 +28,7 @@
 | -[] Publish the notes about Linear Regression |
 | -[ ] Complete Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 |
 | -[ ] Complete Perceptron & Generalized Linear Model | Stanford CS229: Machine Learning - Lecture 4 |
-| -[ ] Complete GDA & Naive Bayes | Stanford CS229: Machine Learning - Lecture 5 |
+-[ ] Complete GDA & Naive Bayes | Stanford CS229: Machine Learning - Lecture 5 
 
 
 -----------------------------------------
