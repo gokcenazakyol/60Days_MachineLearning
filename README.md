@@ -24,6 +24,7 @@
 ### Day 5 of 60 Days Machine Learning Challange 🐸
 
 |TO-DO list of the day|
+| ------------- |
 | -[ ] Publish the notes about Linear Regression |
 | -[ ] Complete Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 |
 | -[ ] Complete Perceptron & Generalized Linear Model | Stanford CS229: Machine Learning - Lecture 4 |
