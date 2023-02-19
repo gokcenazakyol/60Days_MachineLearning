@@ -21,6 +21,16 @@
 | KNN Classifier | [file](https://github.com/gokcenazakyol/knn-classifier) |
 
 -----------------------------------------
+### Day 6 of 60 Days Machine Learning Challange ✨
+
+| Done |TO-DO list of the day|
+|------| ------------- |
+|  | Publish the notes about Cross Validation |
+|  | Lecture 6 - Support Vector Machines | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018) |
+|  | Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng |
+|  | Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning |
+
+-----------------------------------------
 
 ### Day 5 of 60 Days Machine Learning Challange 🎯
 
