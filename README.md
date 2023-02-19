@@ -14,6 +14,7 @@
 | ------------- | ------------- |
 | 1. Nearest Neighbor Classifier | [note](https://medium.com/@gokcenazakyol/what-is-nearest-neighbor-classifier-machine-learning-1-26b8ec1b9f7b)|
 | 2. Curse of Dimensionality | [note](https://medium.com/@gokcenazakyol/what-is-curse-of-dimensionality-machine-learning-2-739131962faf) |
+| 3. Linear Regression | [note](https://medium.com/@gokcenazakyol/what-is-linear-regression-machine-learning-3-3489725a887) |
 
 | Exercise Names |Files|
 | ------------- | ------------- |
@@ -25,11 +26,20 @@
 
 | Done |TO-DO list of the day|
 |------| ------------- |
-| | Publish the notes about Linear Regression |
+| ✅ | Publish the notes about Linear Regression |
 | ✅ | Complete Locally Weighted & Logistic Regression -  Stanford CS229: Machine Learning - Lecture 3 |
 | ✅ | Complete Perceptron & Generalized Linear Model -  Stanford CS229: Machine Learning - Lecture 4 |
 | ✅ | Complete GDA & Naive Bayes - Stanford CS229: Machine Learning - Lecture 5 |
 
+- You can find notes that I took for Linear Regression from [here](https://medium.com/@gokcenazakyol/what-is-linear-regression-machine-learning-3-3489725a887).
+
+#### Some of the New Things I Learnt Today
+- In a parametric learning algorithm you fit some fixed set of parameters such as Theta to data (Example: Linear Regression). Then you could erase a training set from your computer memory and make predictions just using the parameters Theta. In a non-parametric you need to keep all of the data in computer memory or on disk just to make predictions. (Example: Locally weighted regression)
+- IID from statistics stands for Independently and Identically Distributed. These assumptions is probably not absolutely true, but may be good enough that if you make this assumption, you get a pretty good model.
+- If you're willing to assume that the error terms are Gaussian and IID and if you want to use Maximum Likelihood Estimation, then you should use least squares.
+- If you choose a logistic function rather than some other function that will give you 0 to 1, you're guaranteed that the likelihood function has only one global maximum. (concave function)
+- If you make weaker assumptions as in logistic regression, then your algorithm will be more robust to modeling assumptions such as accidentally assuming the data is Gaussian and it is not. But on the flip side, if you have a very small dataset, then using a model that makes more assumptions will actually allow you to do better because by making more assumptions you're just telling the algorithm more truth about the world.
+- If we perform maximum likelihood on the exponential family when the exponential family is parameterized in the natural parameters, then the optimization problem is concave. So MLE with respect to eta is concave. Similarly, if you flip this sign and use the negative log-likelihood, the cost function equivalent of doing maximum likelihood, you minimize the negative log likelihood, so the NLL is therefore convex.
 
 -----------------------------------------
 
