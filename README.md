@@ -15,6 +15,7 @@
 | 1. Nearest Neighbor Classifier | [note](https://medium.com/@gokcenazakyol/what-is-nearest-neighbor-classifier-machine-learning-1-26b8ec1b9f7b)|
 | 2. Curse of Dimensionality | [note](https://medium.com/@gokcenazakyol/what-is-curse-of-dimensionality-machine-learning-2-739131962faf) |
 | 3. Linear Regression | [note](https://medium.com/@gokcenazakyol/what-is-linear-regression-machine-learning-3-3489725a887) |
+| 4. Cross Validation | [note](https://medium.com/@gokcenazakyol/what-is-cross-validation-machine-learning-4-67a534f566c)|
 
 | Exercise Names |Files|
 | ------------- | ------------- |
@@ -28,7 +29,9 @@
 | ✅ | Publish the notes about Cross Validation |
 | ✅ | Lecture 6 - Support Vector Machines - Stanford CS229: Machine Learning |
 | ✅ | Lecture 7 - Kernels - Stanford CS229: Machine Learning |
-|  | ~~Lecture 8 - Data Splits, Models & Cross-Validation - Stanford CS229: Machine Learning~~ |
+|  | U-NET Paper Walkthrough ~~Lecture 8 - Data Splits, Models & Cross-Validation - Stanford CS229: Machine Learning~~ |
+- As you can see above, I felt pretty exhausted about lecture videos. So I decided to examine something different and choose U-NET paper to do so.
+- Also, you can find notes that I took for Linear Regression from [here](https://medium.com/@gokcenazakyol/what-is-cross-validation-machine-learning-4-67a534f566c).
 
 -----------------------------------------
 
