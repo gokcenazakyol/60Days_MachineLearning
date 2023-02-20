@@ -31,7 +31,7 @@
 | ✅ | Lecture 7 - Kernels - Stanford CS229: Machine Learning |
 |  | U-NET Paper Walkthrough ~~Lecture 8 - Data Splits, Models & Cross-Validation - Stanford CS229: Machine Learning~~ |
 - As you can see above, I felt pretty exhausted about lecture videos. So I decided to examine something different and choose U-NET paper to do so.
-- Also, you can find notes that I took for Linear Regression from [here](https://medium.com/@gokcenazakyol/what-is-cross-validation-machine-learning-4-67a534f566c).
+- Also, you can find notes that I took for Cross Validation from [here](https://medium.com/@gokcenazakyol/what-is-cross-validation-machine-learning-4-67a534f566c).
 
 -----------------------------------------
 
