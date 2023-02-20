@@ -25,7 +25,7 @@
 
 | Done |TO-DO list of the day|
 |------| ------------- |
-|  | Publish the notes about Cross Validation |
+| ✅ | Publish the notes about Cross Validation |
 | ✅ | Lecture 6 - Support Vector Machines - Stanford CS229: Machine Learning |
 |  | Lecture 7 - Kernels - Stanford CS229: Machine Learning |
 |  | Lecture 8 - Data Splits, Models & Cross-Validation - Stanford CS229: Machine Learning |
