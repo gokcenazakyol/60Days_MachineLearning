@@ -29,9 +29,10 @@
 | ✅ | Publish the notes about Cross Validation |
 | ✅ | Lecture 6 - Support Vector Machines - Stanford CS229: Machine Learning |
 | ✅ | Lecture 7 - Kernels - Stanford CS229: Machine Learning |
-|  | U-NET Paper Walkthrough ~~Lecture 8 - Data Splits, Models & Cross-Validation - Stanford CS229: Machine Learning~~ |
+| ✅| U-NET Paper Walkthrough ~~Lecture 8 - Data Splits, Models & Cross-Validation - Stanford CS229: Machine Learning~~ |
 - As you can see above, I felt pretty exhausted about lecture videos. So I decided to examine something different and choose U-NET paper to do so.
 - Also, you can find notes that I took for Cross Validation from [here](https://medium.com/@gokcenazakyol/what-is-cross-validation-machine-learning-4-67a534f566c).
+- These two resources helped me to get a better understanding of U-Net Architecture: [video](https://www.youtube.com/watch?v=oLvmLJkmXuc) and [blog](https://medium.com/analytics-vidhya/what-is-unet-157314c87634)
 
 -----------------------------------------
 
