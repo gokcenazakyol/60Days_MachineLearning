@@ -22,6 +22,15 @@
 | KNN Classifier | [file](https://github.com/gokcenazakyol/knn-classifier) |
 
 -----------------------------------------
+### Day 7 of 60 Days Machine Learning Challange 🤡
+- Today, I followed a tutorial named [PyTorch Image Segmentation Tutorial with U-NET: everything from scratch baby](https://www.youtube.com/watch?v=IHq1t7NxS8k&t=122s) by Aladdin Persson and here is the code that I implemented based on his tutorial.
+<img width="1470" alt="Screen Shot 2023-02-21 at 23 02 02" src="https://user-images.githubusercontent.com/74296174/220447386-367be190-6a91-41a0-929d-b70ee62a64f9.png">
+
+<img width="1470" alt="Screen Shot 2023-02-21 at 23 02 09" src="https://user-images.githubusercontent.com/74296174/220447434-07e1985c-3e5d-466c-8ebf-e121df22960a.png">
+
+- However, I got an error because of the versions (I guess). I will going to fix that later, and share the code. 
+
+-----------------------------------------
 ### Day 6 of 60 Days Machine Learning Challange ✨
 
 | Done |TO-DO list of the day|
