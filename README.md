@@ -28,7 +28,7 @@
 
 <img width="1470" alt="Screen Shot 2023-02-21 at 23 02 09" src="https://user-images.githubusercontent.com/74296174/220447434-07e1985c-3e5d-466c-8ebf-e121df22960a.png">
 
-- However, I got an error because of the versions (I guess). I will going to fix that later, and share the code. 
+- However, I got an error because of the versions (I guess). I am going to fix that later, and share the code. 
 
 -----------------------------------------
 ### Day 6 of 60 Days Machine Learning Challange ✨
