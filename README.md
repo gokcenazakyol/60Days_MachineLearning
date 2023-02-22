@@ -16,10 +16,15 @@
 | 2. Curse of Dimensionality | [note](https://medium.com/@gokcenazakyol/what-is-curse-of-dimensionality-machine-learning-2-739131962faf) |
 | 3. Linear Regression | [note](https://medium.com/@gokcenazakyol/what-is-linear-regression-machine-learning-3-3489725a887) |
 | 4. Cross Validation | [note](https://medium.com/@gokcenazakyol/what-is-cross-validation-machine-learning-4-67a534f566c)|
+| 5. Computational Learning Theory | [note](https://medium.com/@gokcenazakyol/what-is-computational-learning-theory-machine-learning-5-e235701e191f) |
 
 | Exercise Names |Files|
 | ------------- | ------------- |
 | KNN Classifier | [file](https://github.com/gokcenazakyol/knn-classifier) |
+
+-----------------------------------------
+### Day 8 of 60 Days Machine Learning Challange 👻
+- You can find notes that I took for Computational Learning Theory from [here](https://medium.com/@gokcenazakyol/what-is-computational-learning-theory-machine-learning-5-e235701e191f).
 
 -----------------------------------------
 ### Day 7 of 60 Days Machine Learning Challange 🤡
